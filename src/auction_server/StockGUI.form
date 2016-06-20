@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="100" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jLabel1" max="32767" attributes="0"/>
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblSymbol" max="32767" attributes="0"/>
+                  <Component id="lblFBSymbol" max="32767" attributes="0"/>
+                  <Component id="lblVRTUSymbol" max="32767" attributes="0"/>
+                  <Component id="lblMSFTSymbol" max="32767" attributes="0"/>
+                  <Component id="lblGOOGLSymbol" max="32767" attributes="0"/>
+                  <Component id="lblYHOOSymbol" max="32767" attributes="0"/>
+                  <Component id="lblXLNXSymbol" max="32767" attributes="0"/>
+                  <Component id="lblTSLASymbol" max="32767" attributes="0"/>
+                  <Component id="lblTXASymbol" alignment="1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblSecurityName" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblFBName" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblVRTUName" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblMSFTName" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblGooglName" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblYHOOName" alignment="1" max="32767" attributes="0"/>
+                  <Component id="lblXLNXName" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblTSLAName" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblTXAName" alignment="0" min="-2" pref="94" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblFBBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblVRTUBid" alignment="1" max="32767" attributes="0"/>
+                  <Component id="lblMSFTBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblGOOGLBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblYHOOBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblXLNXBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblTSLABid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblTXABid" alignment="0" min="-2" pref="94" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+          <Component id="jPanel2" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblSymbol" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblSecurityName" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblBid" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblFBName" max="32767" attributes="0"/>
+                  <Component id="lblFBBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblFBSymbol" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblVRTUName" max="32767" attributes="0"/>
+                  <Component id="lblVRTUBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblVRTUSymbol" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblMSFTName" max="32767" attributes="0"/>
+                  <Component id="lblMSFTBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblMSFTSymbol" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblGooglName" max="32767" attributes="0"/>
+                  <Component id="lblGOOGLBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblGOOGLSymbol" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblYHOOName" max="32767" attributes="0"/>
+                  <Component id="lblYHOOBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblYHOOSymbol" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblXLNXName" max="32767" attributes="0"/>
+                  <Component id="lblXLNXBid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblXLNXSymbol" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblTSLAName" max="32767" attributes="0"/>
+                  <Component id="lblTSLABid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblTSLASymbol" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblTXAName" max="32767" attributes="0"/>
+                  <Component id="lblTXABid" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblTXASymbol" alignment="0" min="-2" pref="21" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel2" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="24" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Stock Exchange"/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+            <EtchetBorder/>
+          </Border>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSymbol">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="Company Symbol"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblFBSymbol">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="FB"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblVRTUSymbol">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="VRTU"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblMSFTSymbol">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="MSFT"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblGOOGLSymbol">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="GOOGL"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblYHOOSymbol">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="YHOO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblXLNXSymbol">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="XLNX"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTSLASymbol">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="TSLA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTXASymbol">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="TXA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblGooglName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSecurityName">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Company Security Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblFBName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblVRTUName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblMSFTName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblYHOOName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblXLNXName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTSLAName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTXAName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblGOOGLBid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblBid">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="11"/>
+        <Property name="text" type="java.lang.String" value="Current Bid"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblFBBid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblVRTUBid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblMSFTBid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblYHOOBid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblXLNXBid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTSLABid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTXABid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+            <EtchetBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="215" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtCompany" min="-2" pref="115" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="butView" min="-2" pref="172" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel2" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                      <Component id="txtCompany" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="butView" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Enter Company Symbol:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtCompany">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtCompanyActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="butView">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="View Past bids"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="butViewActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
